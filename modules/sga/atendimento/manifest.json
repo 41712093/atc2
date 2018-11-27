@@ -1,0 +1,13 @@
+{
+    "type": 0,
+    "name": "Atendimento",
+    "description": "Realice la atención a las siglas distribuidas de los servicios que usted atiende",
+    "homepage": "http://novosga.org",
+    "authors": [
+        {
+            "name": "Rogério Lino",
+            "email": "rogeriolino@gmail.com",
+            "homepage": "http://rogeriolino.com"
+        }
+    ]
+}
